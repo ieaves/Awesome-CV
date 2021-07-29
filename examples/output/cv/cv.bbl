@@ -42,7 +42,7 @@
       \strng{authornamehash}{fd9c18235be97d388bafe40d6ca02bea}
       \strng{authorfullhash}{fd9c18235be97d388bafe40d6ca02bea}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Open Source Software}
@@ -88,7 +88,7 @@
       \strng{authornamehash}{a6063be7c78e846e6ee901a7ecfd674a}
       \strng{authorfullhash}{a6063be7c78e846e6ee901a7ecfd674a}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We report on an experimental investigation of the time-dependent spatial intensity distribution of near-infrared idler pulses from an optical parametric oscillator measured using an infrared (IR) camera, in contrast to beam profiles obtained using traditional knife-edge techniques. Comparisons show the information gained by utilizing the thermal camera provides more detail than the spatially- or time-averaged measurements from a knife-edge profile. Synchronization, averaging, and thresholding techniques are applied to enhance the images acquired. The additional information obtained can improve the process by which semiconductor devices and other IR lasers are characterized for their beam quality and output response and thereby result in IR devices with higher performance.}
@@ -137,7 +137,7 @@
       \strng{authornamehash}{458638a1b3bc50a16d0569cf67dd9828}
       \strng{authorfullhash}{458638a1b3bc50a16d0569cf67dd9828}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{AIP Conference Proceedings}
