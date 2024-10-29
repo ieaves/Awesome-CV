@@ -1,19 +1,19 @@
-[2] Config.pm:311> INFO - This is Biber 2.16
-[3] Config.pm:314> INFO - Logfile is 'examples/output/cv/cv.blg'
-[167] biber-darwin:340> INFO - === Thu Jul 29, 2021, 15:55:09
-[195] Biber.pm:415> INFO - Reading 'examples/output/cv/cv.bcf'
-[406] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[407] Biber.pm:952> INFO - Found 3 citekeys in bib section 1
-[407] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[458] Biber.pm:4340> INFO - Processing section 1
-[496] Biber.pm:4531> INFO - Looking for bibtex format file 'examples/cv/references.bib' for section 1
-[534] bibtex.pm:1689> INFO - LaTeX decoding ...
-[597] bibtex.pm:1494> INFO - Found BibTeX data source 'examples/cv/references.bib'
-[653] Utils.pm:395> WARN - legacy month field 'May' in entry 'Olafsen2018' is not an integer - this will probably not sort properly.
-[680] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[680] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[680] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[680] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[700] bbl.pm:654> INFO - Writing 'examples/output/cv/cv.bbl' with encoding 'UTF-8'
-[706] bbl.pm:757> INFO - Output to examples/output/cv/cv.bbl
-[707] Biber.pm:128> INFO - WARNINGS: 1
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'examples/output/cv/cv.blg'
+[59] biber-darwin:340> INFO - === Tue Oct 29, 2024, 15:00:26
+[72] Biber.pm:415> INFO - Reading 'examples/output/cv/cv.bcf'
+[142] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[142] Biber.pm:952> INFO - Found 3 citekeys in bib section 1
+[143] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[160] Biber.pm:4340> INFO - Processing section 1
+[169] Biber.pm:4531> INFO - Looking for bibtex format file 'examples/cv/references.bib' for section 1
+[170] bibtex.pm:1689> INFO - LaTeX decoding ...
+[175] bibtex.pm:1494> INFO - Found BibTeX data source 'examples/cv/references.bib'
+[203] Utils.pm:395> WARN - legacy month field 'May' in entry 'Olafsen2018' is not an integer - this will probably not sort properly.
+[216] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[216] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[216] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[216] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[223] bbl.pm:654> INFO - Writing 'examples/output/cv/cv.bbl' with encoding 'UTF-8'
+[225] bbl.pm:757> INFO - Output to examples/output/cv/cv.bbl
+[225] Biber.pm:128> INFO - WARNINGS: 1
