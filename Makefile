@@ -25,7 +25,10 @@ cv.pdf: $(EXAMPLES_DIR)/cv.tex $(CV_SRCS)
 coverletter.pdf: $(EXAMPLES_DIR)/coverletter.tex
 	$(CC) -output-directory=$(OUTPUT_DIR)/coverletter $<
 
-
+lawschool: $(EXAMPLES_DIR)/lawschool.tex
+	$(CC) -output-directory=$(OUTPUT_DIR)/lawschool $<
+	biber $(OUTPUT_DIR)/lawschool/lawschool
+	$(CC) -output-directory=$(OUTPUT_DIR)/lawschool $<
 
 ## Remove all pdf's from examples directory
 clean:
