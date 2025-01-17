@@ -163,5 +163,66 @@
     \endentry
   \enddatalist
 \endrefsection
+
+\refsection{2}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{IanMastersThesis}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6b33f5348e3799bfa5fe57fcb4b9028}{%
+           family={Eaves},
+           familyi={E\bibinitperiod},
+           given={I.\bibnamedelimi K.},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{fullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{bibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{authorbibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{authornamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{authorfullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although numerous techniques for calculating stationary states of the schrödinger equation are well known to physicist, computationally stable methods of numerical integration to determine the time evolution of wave functions are less well understood. This paper intends to introduce a few theoretical means of time evolving the schrödinger equation and exploring the results of similar calculations.}
+      \field{journaltitle}{Drexel University}
+      \field{month}{12}
+      \field{title}{Numerical Integration of the Wavefunction in FEM}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.physics.drexel.edu/~bob/TermPapers/Eaves_termpaper.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.physics.drexel.edu/~bob/TermPapers/Eaves_termpaper.pdf
+      \endverb
+    \endentry
+    \entry{IanUndergradThesis}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6b33f5348e3799bfa5fe57fcb4b9028}{%
+           family={Eaves},
+           familyi={E\bibinitperiod},
+           given={I.\bibnamedelimi K.},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{fullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{bibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{authorbibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{authornamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \strng{authorfullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Baylor University}
+      \field{title}{Computational Mid-Infrared Beam Analysis}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
