@@ -1,5 +1,5 @@
 %!TEX TS-program = xelatex
-
+% !TeX program = xelatex
 %!TEX encoding = UTF-8 Unicode
 % Awesome CV LaTeX Template for CV/Resume
 %
@@ -24,6 +24,9 @@
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
@@ -37,7 +40,6 @@
 % \definecolor{text}{HTML}{333333}
 % \definecolor{graytext}{HTML}{5D5D5D}
 % \definecolor{lighttext}{HTML}{999999}
-% \definecolor{sectiondivider}{HTML}{5D5D5D}
 
 % Set false if you don't want to highlight section with awesome color
 \setbool{acvSectionColorHighlight}{true}
@@ -51,29 +53,26 @@
 %	Comment any of the lines below if they are not required
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
-% \photo{./examples/profile.png}
-\name{Claud D.}{Park}
-\position{Site Reliability Engineer{\enskip\cdotp\enskip}Software Architect}
-\address{235, World Cup buk-ro, Mapo-gu, Seoul, 03936, Republic of Korea}
+\photo{./examples/resume/profile.png}
+\name{Ian K.}{Eaves}
+\position{Founder{\enskip\cdotp\enskip}Data Scientist{\enskip\cdotp\enskip}Machine Learning Engineer}
+%\address{42-8, Bangbae-ro 15-gil, Seocho-gu, Seoul, 00681, Rep. of KOREA}
 
-\mobile{(+82) 10-9030-1843}
-\email{posquit0.bj@gmail.com}
-%\dateofbirth{January 1st, 1970}
-\homepage{www.posquit0.com}
-\github{posquit0}
-\linkedin{posquit0}
+%\mobile{(+82) 10-9030-1843}
+\email{ian.k.eaves@gmail.com}
+\homepage{www.ianeaves.com}
+\github{ieaves}
+\linkedin{ieaves}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
 % \skype{skype-id}
 % \reddit{reddit-id}
-% \medium{medium-id}
-% \kaggle{kaggle-id}
-% \hackerrank{hackerrank-id}
+% \medium{madium-id}
 % \googlescholar{googlescholar-id}{name-to-display}
 %% \firstname and \lastname will be used
 % \googlescholar{googlescholar-id}{}
-% \extrainfo{extra information}
+% \extrainfo{extra informations}
 
 \quote{``Be the change that you want to see in the world``}
 
@@ -85,7 +84,7 @@
 %-------------------------------------------------------------------------------
 \begin{document}
 
-% Print the header with above personal information
+% Print the header with above personal informations
 % Give optional argument to change alignment(C: center, L: left, R: right)
 \makecvheader
 
@@ -101,15 +100,17 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-\input{cv/education.tex}
-\input{cv/skills.tex}
-\input{cv/experience.tex}
-\input{cv/extracurricular.tex}
-\input{cv/honors.tex}
-\input{cv/certificates.tex}
-\input{cv/presentation.tex}
-\input{cv/writing.tex}
-\input{cv/committees.tex}
+
+\input{examples/cv/skills.tex}
+\input{examples/cv/experience.tex}
+\input{examples/cv/education.tex}
+\input{examples/cv/opensource.tex}
+\input{examples/cv/publications.tex}
+%\input{examples/cv/extracurricular.tex}
+%\input{examples/cv/honors.tex}
+%\input{examples/cv/presentation.tex}
+%\input{examples/cv/writing.tex}
+%\input{examples/cv/committees.tex}
 
 
 %-------------------------------------------------------------------------------
