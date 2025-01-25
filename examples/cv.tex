@@ -1,4 +1,5 @@
 %!TEX TS-program = xelatex
+% !TeX program = xelatex
 %!TEX encoding = UTF-8 Unicode
 % Awesome CV LaTeX Template for CV/Resume
 %
@@ -74,8 +75,12 @@
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra information}
 
-\quote{``Be the change that you want to see in the world."}
+\quote{``Be the change that you want to see in the world``}
 
+%-------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%-------------------------------------------------------------------------------
+\addbibresource{examples/cv/references.bib}
 
 %-------------------------------------------------------------------------------
 \begin{document}
@@ -88,7 +93,7 @@
 % Leave any of these blank if they are not needed
 \makecvfooter
   {\today}
-  {Claud D. Park~~~·~~~Curriculum Vitae}
+  {Ian K. Eaves~~~·~~~Curriculum Vitae}
   {\thepage}
 
 
@@ -96,6 +101,7 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
+<<<<<<< HEAD
 \input{cv/education.tex}
 \input{cv/skills.tex}
 \input{cv/experience.tex}
@@ -105,6 +111,19 @@
 \input{cv/presentation.tex}
 \input{cv/writing.tex}
 \input{cv/committees.tex}
+=======
+
+\input{examples/cv/skills.tex}
+\input{examples/cv/experience.tex}
+\input{examples/cv/education.tex}
+\input{examples/cv/opensource.tex}
+\input{examples/cv/publications.tex}
+%\input{examples/cv/extracurricular.tex}
+%\input{examples/cv/honors.tex}
+%\input{examples/cv/presentation.tex}
+%\input{examples/cv/writing.tex}
+%\input{examples/cv/committees.tex}
+>>>>>>> 814fe7bae44ea99e9f725ed1e3f67133412f8fb9
 
 
 %-------------------------------------------------------------------------------
