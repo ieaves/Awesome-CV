@@ -1,0 +1,24 @@
+# Fdb version 4
+["xdvipdfmx"] 1738268870.97554 "build/lawschool.xdv" "build/lawschool.pdf" "build/lawschool" 1738268871.41705 0
+  "build/lawschool.xdv" 1738268870.8991 75704 549e134becb666f562a641aab13f7682 "xelatex"
+  (generated)
+  "build/lawschool.pdf"
+  (rewritten before read)
+["xelatex"] 1738269932.92374 "lawschool.tex" "build/lawschool.xdv" "lawschool" 1738269973.02801 2
+  "../../templates/../awesome-cv.cls" 1738265967.92964 29599 c8e56693e5d11d1b866433aecd171e37 ""
+  "../../templates/awesome-cv-ian.cls" 1737573236.82218 4248 12b52fe470c5e93cd9190bb0e8e0ea69 ""
+  "/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/array.sty" 1698869629 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
+  "/usr/local/texlive/2024basic/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024basic/texmf-var/web2c/xetex/xelatex.fmt" 1738269197 10028121 2ecc82173a838b30ef53ee3aa087de56 ""
+  "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
+  "build/enumitem.sty" 0 -1 0 ""
+  "build/lawschool.aux" 1738268870.89394 1098 20c50363e64c6124d2b1d3793211de1e "xelatex"
+  "enumitem.sty" 0 -1 0 ""
+  "lawschool.tex" 1738269537.79438 3689 576f155ce9d458b49722779bf9ad8372 ""
+  (generated)
+  "build/lawschool.aux"
+  "build/lawschool.log"
+  "build/lawschool.xdv"
+  (rewritten before read)

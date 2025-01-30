@@ -8,9 +8,15 @@ OUTPUT_DIR = $(EXAMPLES_DIR)/output
 RESUME_SRCS = $(shell find $(RESUME_DIR) -name '*.tex')
 CV_SRCS = $(shell find $(CV_DIR) -name '*.tex')
 
+
 ## Build custom CV
 cv: 
 	cd user/cv && latexmk cv.tex
+
+
+## Build custom CV in BW
+cv-bw:
+	cd user/cv && latexmk cv-bw.tex
 
 
 
@@ -72,8 +78,4 @@ help:
 			printf "%s ", words[i]; \
 		} \
 		printf "\n"; \
-<<<<<<< HEAD
 	}' \
-=======
-	}' \
->>>>>>> 814fe7bae44ea99e9f725ed1e3f67133412f8fb9
