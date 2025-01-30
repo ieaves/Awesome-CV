@@ -1,0 +1,17 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'build/cv.blg'
+[31] biber-darwin:340> INFO - === Thu Jan 30, 2025, 15:16:02
+[40] Biber.pm:420> INFO - Reading 'build/cv.bcf'
+[76] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[76] Biber.pm:994> INFO - Found 3 citekeys in bib section 1
+[76] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[86] Biber.pm:4463> INFO - Processing section 1
+[92] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 1
+[92] bibtex.pm:1713> INFO - LaTeX decoding ...
+[96] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[121] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[121] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[121] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[121] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[126] bbl.pm:676> INFO - Writing 'build/cv.bbl' with encoding 'UTF-8'
+[127] bbl.pm:779> INFO - Output to build/cv.bbl

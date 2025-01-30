@@ -134,9 +134,6 @@
            given={J.\bibnamedelimi S.},
            giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {AIP Publishing}%
-      }
       \strng{namehash}{458638a1b3bc50a16d0569cf67dd9828}
       \strng{fullhash}{458638a1b3bc50a16d0569cf67dd9828}
       \strng{fullhashraw}{458638a1b3bc50a16d0569cf67dd9828}
@@ -149,8 +146,8 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{15th International Conference on Narrow Gap Systems (NGS15)}
       \field{journaltitle}{AIP Conference Proceedings}
+      \field{number}{1}
       \field{title}{Synchronized Mid‐Infrared Beam Characterization of Narrow Gap Semiconductors}
       \field{volume}{1416}
       \field{year}{2011}
@@ -169,75 +166,6 @@
       \verb{url}
       \verb https://aip.scitation.org/doi/abs/10.1063/1.3671705
       \endverb
-    \endentry
-  \enddatalist
-\endrefsection
-
-\refsection{2}
-  \datalist[entry]{ydnt/global//global/global/global}
-    \entry{IanMastersThesis}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=d6b33f5348e3799bfa5fe57fcb4b9028}{%
-           family={Eaves},
-           familyi={E\bibinitperiod},
-           given={I.\bibnamedelimi K.},
-           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Drexel University}%
-      }
-      \strng{namehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{fullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{fullhashraw}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{bibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authorbibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authornamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authorfullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authorfullhashraw}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Although numerous techniques for calculating stationary states of the schrödinger equation are well known to physicist, computationally stable methods of numerical integration to determine the time evolution of wave functions are less well understood. This paper intends to introduce a few theoretical means of time evolving the schrödinger equation and exploring the results of similar calculations.}
-      \field{month}{12}
-      \field{title}{Numerical Integration of the Wavefunction in FEM}
-      \field{year}{2013}
-      \true{nocite}
-      \verb{urlraw}
-      \verb http://www.physics.drexel.edu/~bob/TermPapers/Eaves_termpaper.pdf
-      \endverb
-      \verb{url}
-      \verb http://www.physics.drexel.edu/~bob/TermPapers/Eaves_termpaper.pdf
-      \endverb
-    \endentry
-    \entry{IanUndergradThesis}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=d6b33f5348e3799bfa5fe57fcb4b9028}{%
-           family={Eaves},
-           familyi={E\bibinitperiod},
-           given={I.\bibnamedelimi K.},
-           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Baylor University}%
-      }
-      \strng{namehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{fullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{fullhashraw}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{bibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authorbibnamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authornamehash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authorfullhash}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \strng{authorfullhashraw}{d6b33f5348e3799bfa5fe57fcb4b9028}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Computational Mid-Infrared Beam Analysis}
-      \field{year}{2011}
-      \true{nocite}
     \endentry
   \enddatalist
 \endrefsection

@@ -1,18 +1,17 @@
 # Fdb version 4
-["biber build/cv"] 1738271761.07301 "build/cv.bcf" "build/cv.bbl" "build/cv" 1738271885.24859 0
-  "build/cv.bcf" 1738271882.9311 108871 3365198a700ee493d369866f28ad182c "xelatex"
+["biber build/cv-bw"] 1738273049.68306 "build/cv-bw.bcf" "build/cv-bw.bbl" "build/cv-bw" 1738273058.27196 0
+  "build/cv-bw.bcf" 1738273058.00509 108871 3365198a700ee493d369866f28ad182c "xelatex"
   "references.bib" 1737581464.94129 2884 05bba9da807fe669432a805f3610a08c ""
   (generated)
-  "build/cv.bbl"
-  "build/cv.blg"
+  "build/cv-bw.bbl"
+  "build/cv-bw.blg"
   (rewritten before read)
-["xdvipdfmx"] 1738271883.00242 "build/cv.xdv" "build/cv.pdf" "build/cv" 1738271885.25026 0
-  "build/cv.xdv" 1738271882.93195 58156 9d59696490bb1eeaf336b881fbc920fb "xelatex"
+["xdvipdfmx"] 1738273058.08721 "build/cv-bw.xdv" "build/cv-bw.pdf" "build/cv-bw" 1738273058.27387 0
+  "build/cv-bw.xdv" 1738273058.00617 55940 b0672423abe434572a5dec81a272a807 "xelatex"
   (generated)
-  "build/cv.pdf"
+  "build/cv-bw.pdf"
   (rewritten before read)
-["xelatex"] 1738271880.62837 "cv.tex" "build/cv.xdv" "cv" 1738271885.24866 0
-  "../../resources/profile.png" 1737500780.31934 5071089 76544f942e424ce548f3929c4a70e880 ""
+["xelatex"] 1738273055.81807 "cv-bw.tex" "build/cv-bw.xdv" "cv-bw" 1738273058.27203 0
   "../../templates/../awesome-cv.cls" 1738270070.15921 29599 c8e56693e5d11d1b866433aecd171e37 ""
   "../../templates/awesome-cv-ian.cls" 1738271622.47899 4249 779803e40993b028b305519c44526714 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -192,20 +191,20 @@
   "/usr/local/texlive/2024basic/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024basic/texmf-var/web2c/xetex/xelatex.fmt" 1738269197 10028121 2ecc82173a838b30ef53ee3aa087de56 ""
   "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
-  "build/cv.aux" 1738271882.92743 800 a4b68980f21842a9ae8dc16c215b582c "xelatex"
-  "build/cv.bbl" 1738271762.50918 7172 3b5d53ed4e23f47a6db289e86ecbf4e9 "biber build/cv"
-  "build/cv.run.xml" 1738271882.93185 2361 54de185cb791bef038cb6890f4223d77 "xelatex"
+  "build/cv-bw.aux" 1738273058.00124 800 a4b68980f21842a9ae8dc16c215b582c "xelatex"
+  "build/cv-bw.bbl" 1738273051.17357 7172 3b5d53ed4e23f47a6db289e86ecbf4e9 "biber build/cv-bw"
+  "build/cv-bw.run.xml" 1738273058.00602 2382 e9a096c79c5a44fe06b1e785d539d01f "xelatex"
   "content.tex" 1738269047.20094 736 7be49047e2d6e47e0253cc2c117f0a6b ""
-  "cv.tex" 1738267346.82751 1085 844021d299d84aab506d7e00ac36b46e ""
+  "cv-bw.tex" 1738268650.44204 1041 aaf9e076ddf4aed8e1081ebb98e88083 ""
   "education.tex" 1737589548.04066 839 c793c784c47598d6b0a820d4f0157a8c ""
   "experience.tex" 1738271872.7644 6427 528fc6b5c7170fa9509a6bf6d408478f ""
   "opensource.tex" 1737590685.39528 841 70428fbd4b9b41de3736058185dc82ab ""
   "publications.tex" 1737584689.3983 245 c375de705f15cd49ac618076bb5383cf ""
   "technologies.tex" 1738266011.99073 1172 407593f3b266d16598868c6c44db9100 ""
   (generated)
-  "build/cv.aux"
-  "build/cv.bcf"
-  "build/cv.log"
-  "build/cv.run.xml"
-  "build/cv.xdv"
+  "build/cv-bw.aux"
+  "build/cv-bw.bcf"
+  "build/cv-bw.log"
+  "build/cv-bw.run.xml"
+  "build/cv-bw.xdv"
   (rewritten before read)
